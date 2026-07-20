@@ -11,9 +11,6 @@ class Solution {
         while (start <= end) {
             int mid = start + (end - start) / 2;
 
-            System.out.println(mid);
-            System.out.println(checkIfBloomed(bloomDay, mid, m, k));
-
             if (checkIfBloomed(bloomDay, mid, m, k)) {
                 ans = mid;
                 end = mid - 1;
