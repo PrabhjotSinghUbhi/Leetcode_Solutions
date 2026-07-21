@@ -2,7 +2,7 @@ class Solution {
     public int shipWithinDays(int[] weights, int days) {
         int n = weights.length;
         int start = maxElement(weights);
-        int end = Arrays.stream(weights).sum();;
+        int end = sum(weights);
         int ans = end;
 
         while (start <= end) {
@@ -57,5 +57,13 @@ class Solution {
             }
         }
         return max;
+    }
+
+    int sum(int[] arr) {
+        int sum = 0;
+        for(int i : arr)
+            sum += i;
+
+        return sum;
     }
 }
