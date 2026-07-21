@@ -2,16 +2,13 @@ class Solution {
     public int shipWithinDays(int[] weights, int days) {
         int n = weights.length;
         int start = maxElement(weights);
-        int end = maxElement(weights) * n;
+        int end = Arrays.stream(weights).sum();;
         int ans = end;
 
         while (start <= end) {
             int mid = start + (end - start) / 2;
-            boolean bool = checkDays(weights, days, mid);
 
-            // System.out.println(bool + " " + mid);
-
-            if (bool) {
+            if (checkDays(weights, days, mid)) {
                 ans = mid;
                 end = mid - 1;
             } else {
