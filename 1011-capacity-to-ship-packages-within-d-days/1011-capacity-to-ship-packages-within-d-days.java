@@ -21,32 +21,17 @@ class Solution {
     }
 
     boolean checkDays(int[] nums, int reqDays, int currCapacity) {
-        int daysTaken = 0;
-        int sum = 0;
-
-        for (int i = 0; i < nums.length; i++) {
-            sum += nums[i];
-
-            if(sum == currCapacity) {
-                daysTaken++;
-                sum = 0;
-            } else if (sum > currCapacity) {
-                daysTaken++;
-                sum = 0;
-                i--;
+       int days = 1;
+       int currentLoad = 0;
+       for (int w : nums) {
+           if (currentLoad + w > currCapacity) {
+                days++;
+                currentLoad = 0;
             }
+            currentLoad += w;
+       }
 
-            if (daysTaken > reqDays) {
-                return false;
-            }
-
-        }
-
-        if(sum != 0) {
-            daysTaken++;
-        }
-
-        return daysTaken <= reqDays;
+        return days <= reqDays;
     }
 
     int maxElement(int[] arr) {
