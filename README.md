@@ -83,8 +83,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0322-coin-change) |
+| [1143-longest-common-subsequence](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/1143-longest-common-subsequence) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0322-coin-change) |
+## String
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
