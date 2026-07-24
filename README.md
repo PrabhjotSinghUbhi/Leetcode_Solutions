@@ -92,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/1143-longest-common-subsequence) |
+## Database
+|  |
+| ------- |
+| [0183-customers-who-never-order](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0183-customers-who-never-order) |
 <!---LeetCode Topics End-->
