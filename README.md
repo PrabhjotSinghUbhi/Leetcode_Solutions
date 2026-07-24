@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0078-subsets](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0322-coin-change](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0322-coin-change) |
 | [1143-longest-common-subsequence](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/1143-longest-common-subsequence) |
 ## Breadth-First Search
@@ -102,8 +105,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
