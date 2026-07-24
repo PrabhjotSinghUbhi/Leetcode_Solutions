@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0078-subsets) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Stack
 |  |
 | ------- |
