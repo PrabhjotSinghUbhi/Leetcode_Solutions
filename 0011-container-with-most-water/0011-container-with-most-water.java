@@ -5,7 +5,7 @@ class Solution {
 
          int max = Integer.MIN_VALUE;
          
-         while(start <= end) {
+         while(start < end) {
             int h = Math.min(height[start], height[end]);
             int w = end - start;
 
@@ -13,8 +13,11 @@ class Solution {
 
             if(height[start] > height[end]) {
                 end--;
+            } else if(height[start] < height[end]) {
+                start++;
             } else {
                 start++;
+                end--;
             }
 
          }
