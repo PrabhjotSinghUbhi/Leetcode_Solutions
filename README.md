@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0078-subsets](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -97,4 +98,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0183-customers-who-never-order](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0183-customers-who-never-order) |
 | [0577-employee-bonus](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0577-employee-bonus) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
