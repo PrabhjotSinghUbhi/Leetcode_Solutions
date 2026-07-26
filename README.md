@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0258-add-digits) |
+| [0628-maximum-product-of-three-numbers](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0322-coin-change) |
 | [0485-max-consecutive-ones](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0875-koko-eating-bananas](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -124,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Sorting
+|  |
+| ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 <!---LeetCode Topics End-->
