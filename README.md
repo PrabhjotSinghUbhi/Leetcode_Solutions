@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0258-add-digits) |
+| [0486-predict-the-winner](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0322-coin-change](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0322-coin-change) |
 | [0485-max-consecutive-ones](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0486-predict-the-winner) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0875-koko-eating-bananas](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0875-koko-eating-bananas) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0322-coin-change](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0322-coin-change) |
+| [0486-predict-the-winner](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0486-predict-the-winner) |
 | [1143-longest-common-subsequence](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/1143-longest-common-subsequence) |
 ## Breadth-First Search
 |  |
@@ -170,4 +173,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
