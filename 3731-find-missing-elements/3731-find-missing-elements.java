@@ -3,8 +3,16 @@ class Solution {
         // int max = Arrays.stream(nums).max().getAsInt();
         // int min = Arrays.stream(nums).min().getAsInt();
 
-        int max = maxElement(nums);
-        int min = minElement(nums);
+        int min = nums[0];
+        int max = nums[0];
+        for (int i = 1; i < nums.length; i++) {
+            if (nums[i] < min) {
+                min = nums[i];
+            }
+            if (nums[i] > max) {
+                max = nums[i];
+            }
+        }
 
         //n*n
         HashSet<Integer> hs = new HashSet();
@@ -34,9 +42,13 @@ class Solution {
 
     int minElement(int[] arr) {
         int min = arr[0];
+        int max = arr[0];
         for (int i = 1; i < arr.length; i++) {
             if (arr[i] < min) {
                 min = arr[i];
+            }
+            if (arr[i] > max) {
+                max = arr[i];
             }
         }
         return min;
