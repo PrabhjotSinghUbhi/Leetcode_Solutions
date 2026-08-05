@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/1539-kth-missing-positive-number) |
+| [1755-closest-subsequence-sum](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/1755-closest-subsequence-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0078-subsets) |
+| [1755-closest-subsequence-sum](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/1755-closest-subsequence-sum) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Stack
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0877-stone-game) |
 | [1143-longest-common-subsequence](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/1143-longest-common-subsequence) |
 | [1406-stone-game-iii](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/1406-stone-game-iii) |
+| [1755-closest-subsequence-sum](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/1755-closest-subsequence-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
+| [1755-closest-subsequence-sum](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/1755-closest-subsequence-sum) |
 ## Greedy
 |  |
 | ------- |
@@ -154,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0056-merge-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1755-closest-subsequence-sum](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/1755-closest-subsequence-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
@@ -200,4 +205,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/1406-stone-game-iii) |
+## Meet in the Middle
+|  |
+| ------- |
+| [1755-closest-subsequence-sum](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/1755-closest-subsequence-sum) |
+## Bitmask
+|  |
+| ------- |
+| [1755-closest-subsequence-sum](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/1755-closest-subsequence-sum) |
 <!---LeetCode Topics End-->
