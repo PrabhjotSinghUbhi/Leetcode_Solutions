@@ -25,7 +25,7 @@ class Solution {
         stack1.push(root);
         while (!stack1.isEmpty()) {
             TreeNode currentNode = stack1.pop();
-            postOrder.add(currentNode.val);
+            stack2.push(currentNode);
 
             if (currentNode.left != null)
                 stack1.push(currentNode.left);
@@ -33,11 +33,11 @@ class Solution {
                 stack1.push(currentNode.right);
         }
 
-        // while(!stack2.isEmpty()) {
-        //     postOrder.add(stack2.pop().val);
-        // }
+        while(!stack2.isEmpty()) {
+            postOrder.add(stack2.pop().val);
+        }
 
-        Collections.reverse(postOrder);
         return postOrder;
+
     }
 }
