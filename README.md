@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0322-coin-change](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0322-coin-change) |
 | [0485-max-consecutive-ones](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0485-max-consecutive-ones) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0128-longest-consecutive-sequence](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
@@ -233,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/3310-remove-methods-from-project) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
