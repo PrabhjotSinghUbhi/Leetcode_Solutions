@@ -33,17 +33,14 @@ class Solution {
                 if (q.peek().right != null)
                     q.offer(q.peek().right);
 
-                ls.add(q.poll().val);
+                if(!z)
+                    ls.addFirst(q.poll().val);
+                else 
+                    ls.addLast(q.poll().val);
             }
 
-            // z = !z;
+            z = !z;
             ans.add(ls);
-        }
-
-        for(int i = 0; i < ans.size(); i++) {
-            if(i % 2 != 0) {
-                Collections.reverse(ans.get(i));
-            }
         }
 
         return ans;
