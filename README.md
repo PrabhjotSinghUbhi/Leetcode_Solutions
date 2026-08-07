@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0177-nth-highest-salary](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0177-nth-highest-salary) |
 | [0183-customers-who-never-order](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0183-customers-who-never-order) |
 | [0577-employee-bonus](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0577-employee-bonus) |
+| [1068-product-sales-analysis-i](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/1757-recyclable-and-low-fat-products) |
