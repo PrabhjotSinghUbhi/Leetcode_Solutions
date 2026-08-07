@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0177-nth-highest-salary](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0177-nth-highest-salary) |
 | [0183-customers-who-never-order](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0183-customers-who-never-order) |
 | [0577-employee-bonus](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0577-employee-bonus) |
+| [1683-invalid-tweets](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/1683-invalid-tweets) |
 ## Two Pointers
 |  |
 | ------- |
