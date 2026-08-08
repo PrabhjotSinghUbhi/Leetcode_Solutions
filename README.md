@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/1143-longest-common-subsequence) |
 | [1406-stone-game-iii](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/1406-stone-game-iii) |
 | [1755-closest-subsequence-sum](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/1755-closest-subsequence-sum) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/1143-longest-common-subsequence) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -180,12 +182,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [1755-closest-subsequence-sum](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/1755-closest-subsequence-sum) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Monotonic Stack
 |  |
