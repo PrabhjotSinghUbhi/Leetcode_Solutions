@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1143-longest-common-subsequence](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/1143-longest-common-subsequence) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
