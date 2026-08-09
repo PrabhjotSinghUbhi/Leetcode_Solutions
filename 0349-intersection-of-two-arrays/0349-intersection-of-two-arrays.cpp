@@ -2,7 +2,7 @@ class Solution {
 public:
     vector<int> intersection(vector<int>& nums1, vector<int>& nums2) {
         unordered_set<int> mp;
-        set<int> mp2;
+        unordered_set<int> mp2;
         for (auto& i : nums1)
             mp.insert(i);
 
