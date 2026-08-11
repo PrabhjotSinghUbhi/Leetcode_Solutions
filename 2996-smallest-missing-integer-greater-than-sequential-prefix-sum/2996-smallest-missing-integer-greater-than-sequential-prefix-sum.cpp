@@ -12,9 +12,10 @@ public:
             }
         }
 
-        unordered_set<int> mp(nums.begin(), nums.end());
+        vector<bool> mp(51, false);
+        for(auto i : nums) mp[i] = true;
 
-        while (mp.contains(sqSum)) {
+        while (sqSum <= 50 && mp[sqSum]) {
             sqSum++;
         }
 
