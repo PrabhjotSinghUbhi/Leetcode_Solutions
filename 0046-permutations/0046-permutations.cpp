@@ -14,14 +14,11 @@ public:
         }
 
         int num = up[0];
+        vector<int> tmp(up.begin() + 1, up.end());
 
         for (int i = 0; i <= p.size(); i++) {
             vector<int> tp(p.begin(), p.end());
-
             tp.insert(tp.begin() + i, num);
-
-            vector<int> tmp(up.begin() + 1, up.end());
-            
             helper(tp, tmp, result);
         }
     }
