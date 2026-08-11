@@ -16,7 +16,7 @@ class Solution {
                 ans = (ans % mod) * (base % mod);
                 exp = exp - 1;
             } else {
-                exp = exp / 2;
+                exp = exp >> 1;
                 base = ((base % mod) * (base % mod) % mod);
             }
         }
