@@ -17,7 +17,7 @@ public:
         vector<int> tmp(up.begin() + 1, up.end());
 
         for (int i = 0; i <= p.size(); i++) {
-            vector<int> tp(p.begin(), p.end());
+            vector<int> tp(p);
             tp.insert(tp.begin() + i, num);
             helper(tp, tmp, result);
         }
