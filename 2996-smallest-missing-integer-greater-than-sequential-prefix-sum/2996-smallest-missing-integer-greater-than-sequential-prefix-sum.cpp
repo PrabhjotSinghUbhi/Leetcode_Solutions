@@ -12,8 +12,8 @@ public:
             }
         }
 
-        vector<bool> mp(51, false);
-        for(auto i : nums) mp[i] = true;
+        int mp[51] = {false};
+        for (auto i : nums) mp[i] = true;
 
         while (sqSum <= 50 && mp[sqSum]) {
             sqSum++;
