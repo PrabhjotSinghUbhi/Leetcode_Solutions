@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/1406-stone-game-iii) |
+| [1922-count-good-numbers](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/1922-count-good-numbers) |
 ## Game Theory
 |  |
 | ------- |
