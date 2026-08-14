@@ -2,7 +2,7 @@ class Solution {
 public:
     int maximumLengthSubstring(string s) {
         // unordered_set<int, int> mp;
-        vector<int> mp(256, 0);
+        vector<int> mp(27, 0);
         int maxLength = 0;
         int j = 0;
         for (int i = 0; i < s.size(); ++i) {
