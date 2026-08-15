@@ -1,24 +1,21 @@
 class Solution {
 public:
     int longestSubsequence(vector<int>& nums) {
+        int n = nums.size();
+        int totalXor = 0;
+        bool allZero = true;
 
-        ios::sync_with_stdio(false);
-        cin.tie(nullptr);
-
-        int xorr = 0;
-        bool isZero = true;
-        for (auto& i : nums) {
-            xorr ^= i;
-            if (i != 0)
-                isZero = false;
+        for (int x : nums) {
+            totalXor ^= x;
+            if (x > 0) {
+                allZero = false;
+            }
         }
 
-        if (xorr != 0)
-            return nums.size();
+        if (totalXor > 0) {
+            return n;
+        }
 
-        if (!isZero)
-            return nums.size() - 1;
-
-        return 0;
+        return allZero ? 0 : n - 1;
     }
 };
