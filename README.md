@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0069-sqrtx) |
+| [0204-count-primes](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0258-add-digits) |
 | [0486-predict-the-winner](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0204-count-primes](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0322-coin-change](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0204-count-primes) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Sorting
@@ -369,4 +373,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
