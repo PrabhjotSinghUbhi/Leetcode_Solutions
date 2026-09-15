@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0258-add-digits) |
 | [0486-predict-the-winner](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0486-predict-the-winner) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0189-rotate-array](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0322-coin-change](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0322-coin-change) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
+| [0189-rotate-array](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0295-find-median-from-data-stream](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1755-closest-subsequence-sum](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/1755-closest-subsequence-sum) |
