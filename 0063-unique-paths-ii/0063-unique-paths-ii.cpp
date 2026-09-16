@@ -3,7 +3,9 @@ public:
     int uniquePathsWithObstacles(vector<vector<int>>& obstacleGrid) {
         vector<vector<int>> dp(obstacleGrid.size(),
                                vector<int>(obstacleGrid[0].size(), -1));
-        return solve(obstacleGrid, 0, 0, dp);
+                               
+        // return dp[obstacleGrid.size() - 1][obstacleGrid[0].size() - 1];
+        return dp[0][0] = solve(obstacleGrid, 0,0, dp);
     }
 
     int solve(vector<vector<int>>& grid, int i, int j, vector<vector<int>>& dp) {
@@ -15,7 +17,7 @@ public:
             return dp[i][j];
 
         if (i == grid.size() - 1 && j == grid[0].size() - 1) {
-            return 1;
+            return dp[i][j] = 1;
         }
 
         // move right + move down
