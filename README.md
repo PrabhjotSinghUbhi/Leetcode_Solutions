@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0295-find-median-from-data-stream](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
