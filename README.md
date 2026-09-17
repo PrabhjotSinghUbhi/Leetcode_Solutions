@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0875-koko-eating-bananas](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0877-stone-game) |
+| [0994-rotting-oranges](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1140-stone-game-ii](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/1140-stone-game-ii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0322-coin-change](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0322-coin-change) |
+| [0994-rotting-oranges](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0994-rotting-oranges) |
 | [3310-remove-methods-from-project](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/3310-remove-methods-from-project) |
 ## String
 |  |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0064-minimum-path-sum) |
+| [0994-rotting-oranges](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0994-rotting-oranges) |
 ## Binary Indexed Tree
 |  |
 | ------- |
