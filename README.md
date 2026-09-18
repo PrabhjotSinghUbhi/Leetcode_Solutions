@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0120-triangle) |
 | [0322-coin-change](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0877-stone-game) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/1143-longest-common-subsequence) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0295-find-median-from-data-stream](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 | [1755-closest-subsequence-sum](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/1755-closest-subsequence-sum) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
