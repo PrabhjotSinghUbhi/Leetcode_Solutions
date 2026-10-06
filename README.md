@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0090-subsets-ii) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0062-unique-paths) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0205-isomorphic-strings) |
@@ -470,4 +473,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
