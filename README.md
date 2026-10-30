@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0547-number-of-provinces) |
 | [1254-number-of-closed-islands](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/3310-remove-methods-from-project) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0547-number-of-provinces) |
 | [0994-rotting-oranges](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/3310-remove-methods-from-project) |
@@ -423,11 +425,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0547-number-of-provinces) |
 | [3310-remove-methods-from-project](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0547-number-of-provinces) |
 | [1254-number-of-closed-islands](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Memoization
