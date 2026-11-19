@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0322-coin-change](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0416-partition-equal-subset-sum](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -351,12 +353,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Counting Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -371,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -488,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0493-reverse-pairs) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -495,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Primality Test
 |  |
 | ------- |
@@ -571,4 +578,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/PrabhjotSinghUbhi/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
